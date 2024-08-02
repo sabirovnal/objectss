@@ -6,7 +6,6 @@ let streamNumber = document.getElementById('stream-number');
 let addUserButton = document.querySelector('.add-user');
 let clearListButton = document.querySelector('.clear-list');
 
-/
 let userArray = [];
 
 function addUser() {
